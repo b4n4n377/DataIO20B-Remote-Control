@@ -49,7 +49,3 @@ This project provides a graphical user interface (GUI) to remotely control the D
 ## Acknowledgements
 
 Special thanks to the [DataioEPROM](https://groups.io/g/DataioEPROM) community. Without their support, much of this script would not have been possible. They always provide great assistance. This is also where I gather all information about Data I/O programmers.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
